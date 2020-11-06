@@ -563,3 +563,5 @@ https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?Playlis
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101948" tvg-name="RC Radio" tvg-logo="https://lh3.googleusercontent.com/-W15RF9EVvig/Xp0DX11iM6I/AAAAAAAAyB8/3ToZ8-S00wcyYROTtslO_oh_VWwm99iCACK8BGAsYHg/s0/2020-04-19.png", RC Radio
 https://5d52c82b4a7e3.streamlock.net:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,CDF PREMUIM
+https://live.televisiongratishd.com/live/194_.m3u8?token=2ra_mmLtOg052yQp2v7gxQ&expires=1604665121
